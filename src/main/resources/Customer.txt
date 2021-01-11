@@ -1,0 +1,23 @@
+{
+  "name": "Pankaj",
+  "address": {
+    "houseNumber": "H/432",
+    "street": "Sector-4",
+    "zipcode": 369007
+  },
+  "phoneNumbers": [
+    9876543210,
+    9632587410
+  ],
+  "account information": {
+  "bankName": "SBI"
+  "accountNumber": "32110241236"
+  "accountType": "Saving"
+  "Branch": "REC branch",
+  "cities": [
+    "Rourkela",
+    "Odisha"
+  ]},
+  "amount": 4500
+}
+
